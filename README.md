@@ -14,5 +14,7 @@ O projeto pode ser facilmente reproduzido localmente em seu computador ou em um 
 Tecnologias utilizadas:
 
 Python/NLTK – construção do modelo de análise de sentimento
+
 Spark Streaming – coleta do streaming de dados
+
 API do Twitter – conexão a partir da nossa aplicação
